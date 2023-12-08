@@ -26,7 +26,6 @@ a {
  padding: 10px;
  border-radius: 10px;
  width: 20%;
- box-shadow: 8px 8px black;
  display: block; /* instead of flex */
 }
 .assign img {
@@ -38,4 +37,6 @@ a {
  width: 200px;
  margin: 10px;
  border: 2px solid black;
+ box-shadow: 10px 10px black;
+ cursor: pointer; 
 }
