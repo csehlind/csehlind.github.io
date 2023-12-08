@@ -5,7 +5,8 @@ body {
  flex-wrap: wrap;
 }
 h1 {
- color: maroon;
+ color: black;
+ font-family: sans-serif; 
  text-align: center;
  width: 100%;
  display: block;
